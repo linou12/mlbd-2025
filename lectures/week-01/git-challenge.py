@@ -28,7 +28,7 @@ def person_b(df):
     dataframe: Data from the female students
     """
     # Code goes over here.
-    return df[df["gender"] = "female"]
+    raise NotImplementedError()
 
 
 
